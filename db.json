@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "React Native",
+            "email": "react@native.com",
+            "age": 17
+        },
+        {
+            "name": "John Doe",
+            "email": "john@doe.com",
+            "age": "16",
+            "id": 2
+        },
+        {
+            "name": "Jane Doe",
+            "email": "jane@doe.com",
+            "age": "20",
+            "id": 3
+        }
+    ]
+}
